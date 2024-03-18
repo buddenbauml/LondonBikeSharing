@@ -1,0 +1,1 @@
+This project handles data extraction from Kaggle via Kaggle API, data cleaning and preparation, then visualization in Tableau. I created an interactive dashboard in Tableau that can be dynamically changed to show different periods of time.
